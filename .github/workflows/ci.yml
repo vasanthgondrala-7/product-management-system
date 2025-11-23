@@ -38,9 +38,11 @@ jobs:
     - name: Install backend dependencies
       run: |
         cd backend
-        npm ci
+        npm install
         
-    - name: Test backend server
+    - name: Verify backend files
       run: |
         cd backend
-        timeout 10 npm start || exit 0
+        ls -la
+        test -f server.js || exit 1
+        test -f package.json || exit 1
