@@ -229,13 +229,9 @@ Built with ❤️ for the Skillwise Assignment
 
 ## 🔗 Links
 
-- **GitHub Repository**: <your-repo-url>
-- **Live Frontend**: <netlify-url>
-- **Live Backend**: <railway-url>
-
-## 📸 Screenshots
-
-[Add screenshots of your application here]
+- **GitHub Repository**: **[ https://github.com/vasanthgondrala-7/product-management-system ]**
+- **Live Frontend**: **[ https://assets-track.netlify.app/ ]**
+- **Live Backend**: **[ product-management-system.up.railway.app ]**
 
 ## ✨ Future Enhancements
 
